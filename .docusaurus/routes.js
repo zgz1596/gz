@@ -3,6 +3,11 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/gz/%E6%80%A7%E8%83%BD%E7%9B%91%E6%8E%A71',
+    component: ComponentCreator('/gz/%E6%80%A7%E8%83%BD%E7%9B%91%E6%8E%A71', 'e88'),
+    exact: true
+  },
+  {
     path: '/gz/blog',
     component: ComponentCreator('/gz/blog', '492'),
     exact: true
