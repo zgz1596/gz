@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclassic=self.webpackChunkclassic||[]).push([[1743],{7574:(e,a,l)=>{l.r(a),l.d(a,{default:()=>n});var c=l(7294),t=l(7961);function n(){return c.createElement(t.Z,null,c.createElement("h1",null,"My React page"),c.createElement("p",null,"This is a React page"))}}}]);

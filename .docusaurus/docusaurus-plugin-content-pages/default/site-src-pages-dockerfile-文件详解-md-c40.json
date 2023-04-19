@@ -1,0 +1,8 @@
+{
+  "type": "mdx",
+  "permalink": "/gz/Dockerfile%20%E6%96%87%E4%BB%B6%E8%AF%A6%E8%A7%A3",
+  "source": "@site/src/pages/Dockerfile 文件详解.md",
+  "title": "Dockerfile 文件详解",
+  "description": "Docker 可以通过读取 Dockerfile 中的指令自动构建镜像。 Dockerfile 是一个文本文档，其中包含了用户创建镜像的所有命令和说明。",
+  "frontMatter": {}
+}
